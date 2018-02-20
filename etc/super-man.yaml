@@ -1,0 +1,37 @@
+---
+about:
+  first: Super
+  last: Man
+  phone: "0704 XX XX XX"
+  email: "super.man@gmail.com"
+
+education:
+  - start: 2010
+    end: 2012
+    location: Moon
+    school: Moon University of Technology
+    qualification: Master's programme Embedded Electronic System Design
+  - start: 2007
+    end: 2010
+    location: Moon
+    school: Moon University of Technology
+    qualification: Bachelor in Computer Science \& Engineering
+
+experience:
+  - start: 2016
+    end: present
+    title: Software Developer
+    employer: Batman AB
+    location: Gotham
+    notes:
+      - Software Development Consulting
+      - Linux platform development
+      - Android platform development, Android Applications
+      - C, Java, Bash scripts
+  - start: 2016
+    end: 2016
+    title: Software Developer
+    employer: Soon out of Business Corp.
+    location: Middle of nowhere
+    notes:
+      - Developing software for Many-Core infrastructure. (C, C++, git)
